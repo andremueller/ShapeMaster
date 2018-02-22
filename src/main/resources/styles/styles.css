@@ -1,0 +1,10 @@
+/*
+.button:hover {
+    -fx-background-color: #81C784;
+}
+*/
+
+.title {
+    -fx-text-fill: #8377bf;
+    -fx-font-size: 24;
+}
